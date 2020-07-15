@@ -12,8 +12,9 @@ import android.view.View;
 
 import android.view.Menu;
 import android.view.MenuItem;
-
-public class MainActivity extends AppCompatActivity {
+//вношу зміни в 15 рядок і додаю слово до коду в цьому ж рядку
+public class MainActivity extends AppCompatActivity
+{
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
