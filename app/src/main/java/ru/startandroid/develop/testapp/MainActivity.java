@@ -12,7 +12,7 @@ import android.view.View;
 
 import android.view.Menu;
 import android.view.MenuItem;
-//вношу зміни в 15 рядок
+//вношу зміни в 15 рядок і додаю слово до коду в цьому ж рядку
 public class MainActivity extends AppCompatActivity
 {
 
